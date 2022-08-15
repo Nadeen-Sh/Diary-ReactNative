@@ -18,10 +18,5 @@
 
 ## Design
 <div style={{alignItems: "center"}}>
-<div style={{flex: "row"}}>
-<img src="" width="140" height="300" />
-<img src="" width="140" height="300" />
-<img src="" width="140" height="300" />
-<img src="" width="140" height="300" />
-</div>
+
 </div>
